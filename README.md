@@ -2,9 +2,9 @@
 
 A one-slide analysis of Vaisala's profit growth, built from the company's public interim report.
 
-![Slide preview](Vaisala.png)
+![Slide preview](preview.png)
 
-**Slide:** [Vaisala_EBITA_Bridge_9M2026.pdf](Vaisala_EBITA_Bridge_9M2026.pdf)
+**Slide:** [Vaisala_slide.pdf](Vaisala_slide.pdf)
 
 ## Finding
 
@@ -23,7 +23,6 @@ What drives the uncertainty in the EBITA forecast: industrial demand, the timing
 - Vaisala Interim Report January–September 2026, published 27 October 2026.
 - Vaisala outlook update, published 12 October 2026.
 - All figures are reported figures in EUR million. The shares are my own calculations.
-- The bridge compares reported EBITA. The 2025 comparison period also included one-off items, so this is a reported bridge.
-- Built in Excel and PowerPoint. Data collection and layout were assisted by AI tools.
+- Built in Excel and PowerPoint.
 
 Karina Kovtun, November 2026
