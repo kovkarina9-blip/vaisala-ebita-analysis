@@ -16,8 +16,7 @@ Vaisala's EBITA rose from EUR 68.0 million to EUR 83.4 million between January�
 
 ## The question this raises
 
-What drives the uncertainty in the EBITA forecast: industrial demand, the timing of large weather projects, tariffs or currency? The 2026 EBITA outlook moved from EUR 95–110 million to EUR 110–120 million between July and October. I would like to answer this in my master's thesis with Monte Carlo simulation and Simulation Decomposition.
-
+Should Vaisala add capacity for Industrial Measurements now, while demand from data centres is strong, or wait until that demand is confirmed? When one business area carries the growth, management faces a decision under uncertainty. I would like to answer a question like this in my master's thesis with Monte Carlo simulation and Simulation Decomposition.
 ## Sources and method
 
 - Vaisala Interim Report January–September 2026, published 27 October 2026.
